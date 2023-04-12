@@ -19,7 +19,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Screenshot
 
-	![Solution screenshot](images/Screenshot.png)
+	![Solution screenshot](https://github.com/ZaiinabM/Order-summary-card/blob/master/images/Screenshot.png)
 
 ### links
 	- Solution URL: [Add solution URL here](https://your-solution-url.com)
