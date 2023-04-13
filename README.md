@@ -22,7 +22,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 	![](https://raw.githubusercontent.com/ZaiinabM/Order%20summary%20card/master/images/Screenshot.png)
 
 ### links
-	- Solution URL: [Add solution URL here](https://your-solution-url.com)
+	- Solution URL: [Github](https://zaiinabm.github.io/Order-summary-card/)
 	- Live Site URL: [Add live site URL here](https://raw.githubusercontent.com/ZaiinabM/Order-summary-card/master/images/Screenshot.png)
 
 ### Built with
