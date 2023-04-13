@@ -5,40 +5,40 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 ## Table of contents
 
   - [The challenge](#the-challenge)
-	  - [Screenshot](#screenshot)
-	  - [Links](#links)
-	  - [Built with](#built-with)
-	  - [Continued development](#continued-development)
-	  - [Author](##Author)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+  - [Built with](#built-with)
+  - [Continued development](#continued-development)
+  - [Author](#author)
 
 ### The challenge
 
-	Users should be able to:
+Users should be able to:
 
-	- See hover states for interactive elements
+- See hover states for interactive elements
 
 ### Screenshot
 
-	![Solution screenshot](images/Screenshot.png)
+![Solution Screenshot](images/Screenshot.png)
 
-### links
-	- Solution URL: [Add solution URL here](https://your-solution-url.com)
-	- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+### Links
+
+- Solution URL: [Github](https://github.com/ZaiinabM/Order-summary-card.git)
+- Live Site URL: [live site](http://127.0.0.1:5500/index.html)
 
 ### Built with
 
-	- Semantic HTML5 markup
-	- CSS custom properties
-	- Flexbox
-	- Mobile-first workflow
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
 
 ### Continued development
 
-	- Sizing; min-height, max-width. I still struggle with sizing divs.
-	- Positioning generally, I still struggle to position.
-	- Using flexbox for positioning divs and items.
+- Sizing: min-height, max-width. I still struggle with sizing divs.
+- Positioning generally, I still struggle to position.
+- Using flexbox for positioning divs and items.
 
 ## Author
 
-	- Frontend Mentor - [@ZaiinabM](https://www.frontendmentor.io/profile/ZaiinabM)
-	- Twitter - [@ZaiinabM_](https://twitter.com/ZaiinabM_)
+- Frontend Mentor - [@ZaiinabM](https://www.frontendmentor.io/profile/ZaiinabM)
+- Twitter - [@ZaiinabM_](https://twitter.com/ZaiinabM_)
